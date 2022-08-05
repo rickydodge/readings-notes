@@ -11,7 +11,10 @@ Include 3 reminders to yourself of how to keep yourself in a growth mindset
 - Bold Text of my name
 - List two different counts 3 and 5
 - Paragragh
-- Paragraghs break up paragraghs with white space
+- Paragraghs break up paragraghs with white space=
+- Table of Contents
+- Link to each read 01- 08
+
 ## Be sure to introduce yourself, and include a link to your GitHub portfolio page
 <p> This is Ricky Dodge who is returning to college after a 14-years and another 2-years college gap in IT. I am just three classes short from a Bachelors degree in Information Systems Management from the University of Maryland Global College but it is not giving me any hands on or industry skills I have completed the Cyber Security and Networking Associate Degree at Tacoma Community College along with two other associates degrees from other colleges and thirteen certificates. Operating systems and programming experience in CP/M, Microsoft Disk Operation System, Microsoft Windows from 3.0 to 11, Apple from Macintosh to Big Sur, Linux, Sun Sparc, Ubuntu, Basic, FORTRAN, Java, iOS, C, C++, JavaScript, Python, Power Shell, Bash, Android, Chrome, and C sharp. My weakest area in programming but I keep trying. I love TCC program because if you can fail and you have great professors to let you achieve your goals. I Volunteer in the Microsoft TEALS helping local High Schools start a Computer Science program as a Co teacher aid and lab support. Classes in Introduction to Computer Science, AP Computer Science A, AP Computer Science Principles and Remote Instruction. The program designed if you know nothing up can learn computer science which covers Python and Java.</p>
 
